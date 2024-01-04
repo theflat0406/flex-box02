@@ -1,0 +1,42 @@
+div{
+    font-size: 80px;
+    border: rgb(40, 220, 20) solid ;
+    border-width: 20px;
+    border-radius: 20px;
+   padding: 50px;
+   background-color: white ;
+}
+.nivel1{
+    display: flex;
+    justify-content: flex-end;
+   }
+  
+
+   div{
+    font-size: 80px;
+    border: rgb(63, 20, 220) solid ;
+    border-width: 20px;
+    border-radius: 20px;
+   padding: 50px;
+   background-color: rgb(214, 207, 207);}
+
+   .nivel2{
+    display: flex;
+    justify-content: center;
+   }
+
+   div{
+    font-size: 50px;
+    border: crimson solid ;
+    border-width: 20px;
+    border-radius:40px;
+   padding: 50px;
+   background-color: rgb(250, 250, 250);
+}
+
+.nivel3{
+  display: flex;
+  justify-content: flex-end;
+ }
+
+   
