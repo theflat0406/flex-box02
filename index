@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/estilos.css">
+</head>
+<body>
+    <h1>PROYECTO FLEX</h1>
+
+<section class="nivel1">
+
+<div>1</div>
+<div>2</div>
+<div>3</div>
+</section>
+   
+<section class="nivel2"style="background-color: aqua;">
+
+<div>1</div>
+<div>2</div>
+<div>3</div>
+</section>
+<section class="nivel2"style="aqua">
+
+    <div>1</div>
+    <div>2</div>
+    <div>3</div>
+    </section>
+
+    <section class="nivel2"style="background-color: whide;">
+
+        <div>1</div>
+        <div>2</div>
+        <div>3</div>
+        </section>
+</body>
+</html>
